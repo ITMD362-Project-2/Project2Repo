@@ -134,7 +134,6 @@ a {
   transform: translate(-50%, -50%);
 }
 .header {
-  float: center;
   background-color: lightblue;
   width: 100%;
   font-size: xx-large;
@@ -159,7 +158,6 @@ p{
   font-size: larger;
   background-color: lightsteelblue;
   width: 100%;
-  text-align: middle;
 }
 #logo{
   height:200px;
